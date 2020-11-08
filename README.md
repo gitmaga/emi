@@ -1,16 +1,20 @@
-### Hi there 👋
+HumHub - Social Network Kit
+===========================
 
-<!--
-**gitmaga/gitmaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Build Status](https://travis-ci.org/humhub/humhub.svg?branch=master)](https://travis-ci.org/humhub/humhub)
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+[![CLA assistant](https://cla-assistant.io/readme/badge/humhub/humhub)](https://cla-assistant.io/humhub/humhub)
 
-Here are some ideas to get you started:
+HumHub is a feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's perfect for individual:
+- Social Intranets
+- Enterprise Social Networks
+- Private Social Networks
+
+More information:
+- [Homepage & Demo](http://www.humhub.org)
+- [Documentation & Class Reference](http://docs.humhub.org)
+- [Community](http://community.humhub.com/)
+- [Licence](https://www.humhub.com/licences)
+
